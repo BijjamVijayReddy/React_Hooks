@@ -1,13 +1,12 @@
 
 
 import React from 'react';
-import "./App.css"
-import UseReducerBtn from './useReducer/UseReducerBtn';
+import UseRef from './useRef/UseRef';
 
 const App = () => {
   return (
     <div>
-      <UseReducerBtn />
+      <UseRef />
     </div>
   )
 }
